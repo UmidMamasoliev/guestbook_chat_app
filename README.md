@@ -19,6 +19,3 @@ To get started with this app, you'll need to have Flutter installed on your mach
 2. Set up Firebase Authentication and Firestore for your project
 3. Add the Firebase configuration files to the app
 4. Run the app using the Flutter command line tools
-
-## Contributions
-Contributions are welcome! If you find a bug or have a feature request, please submit an issue or pull request.
