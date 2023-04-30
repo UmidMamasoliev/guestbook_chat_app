@@ -1,0 +1,12 @@
+com.example.desktop_webview_auth-jetified-window-1.0.0-beta04-0 /Users/umidjon/.gradle/caches/transforms-3/003a22a5515e1f77f89701a46efbc2ec/transformed/jetified-window-1.0.0-beta04/res
+com.example.desktop_webview_auth-jetified-window-java-1.0.0-beta04-1 /Users/umidjon/.gradle/caches/transforms-3/3c0e35d493ccd3f2bb8b07f96b013b9c/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.desktop_webview_auth-jetified-annotation-experimental-1.1.0-2 /Users/umidjon/.gradle/caches/transforms-3/717758e51a3aff0b90b2556f8994e808/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.desktop_webview_auth-core-1.6.0-3 /Users/umidjon/.gradle/caches/transforms-3/cf72013d765e0f69e97cd3b9cbb09800/transformed/core-1.6.0/res
+com.example.desktop_webview_auth-main-4 /Users/umidjon/.pub-cache/hosted/pub.dev/desktop_webview_auth-0.0.11/android/src/main/res
+com.example.desktop_webview_auth-release-5 /Users/umidjon/.pub-cache/hosted/pub.dev/desktop_webview_auth-0.0.11/android/src/release/res
+com.example.desktop_webview_auth-pngs-6 /Users/umidjon/projects/guestbook_chat_app/build/desktop_webview_auth/generated/res/pngs/release
+com.example.desktop_webview_auth-resValues-7 /Users/umidjon/projects/guestbook_chat_app/build/desktop_webview_auth/generated/res/resValues/release
+com.example.desktop_webview_auth-rs-8 /Users/umidjon/projects/guestbook_chat_app/build/desktop_webview_auth/generated/res/rs/release
+com.example.desktop_webview_auth-mergeReleaseResources-9 /Users/umidjon/projects/guestbook_chat_app/build/desktop_webview_auth/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.desktop_webview_auth-mergeReleaseResources-10 /Users/umidjon/projects/guestbook_chat_app/build/desktop_webview_auth/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.desktop_webview_auth-merged_res-11 /Users/umidjon/projects/guestbook_chat_app/build/desktop_webview_auth/intermediates/merged_res/release
